@@ -11,4 +11,4 @@ Kaggle profile: https://www.kaggle.com/santiagomota
 
 The Taxi Service Trajectory competition predicts the final destination of taxi trips.
 
-![](Santiago Mota - ECML_PKDD 15_ Taxi Trip Time Prediction (II).png){fig-align="center"}
+![]("Santiago Mota - ECML_PKDD 15_ Taxi Trip Time Prediction (II).png"){fig-align="center"}
